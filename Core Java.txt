@@ -1,0 +1,20 @@
+oops:-(8 Questions)
+1. Abstraction
+2. Encapsulation
+3. Inheritance
+4. Polymorphism  : (1) overloading (2) overriding
+5. Constructor
+
+6. Interface(3-4Questions)
+
+//////////////////////////
+Collection Framework(2-3 Questions)
+1. ArrayList
+2. LinkList
+3. HashMap
+////////////////////////
+java new features(3-4Questions)
+1. functional Interface
+2. Lambda Expression
+3. Static Default Method
+4. Stream APIs
